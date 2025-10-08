@@ -61,5 +61,7 @@ Relações principais:
 Projeto acadêmico, desenvolvido de forma gradual, com testes no XAMPP e hospedagem gratuita no InfinityFree. O código é simples, organizado e voltado para aprendizado.
 ## Autoria
 Trabalho desenvolvido por Ricardo Domingos
+
 Curso: Sistemas de Informação
+
 Instituição: Faculdade Cruzeiro do Sul – 2025
